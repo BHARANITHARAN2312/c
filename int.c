@@ -1,9 +1,9 @@
-#include<stdio.h>
+/*#include<stdio.h>
 int main(){
     printf("Focous on goals :");
     return 0;
 }
-
+*/
 #include<stdio.h>
 int main() {
     int a,b,c;
